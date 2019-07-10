@@ -1,0 +1,70 @@
+The term ‘Computer’ is derived from..........#A Latin #B German #C French #D Arabic #A
+Who is the inventor of “Difference Engine”? #A Allen Turing #B Charles Babbage #C Simur Cray #D Augusta Adaming #B
+Who is the father of Computer?#A Allen Turing #B Charles Babbage #C Simur Cray #D Augusta Adaming #B
+Who is the father of Computer science?#A Allen Turing #B Charles Babbage #C Simur Cray #D Augusta Adaming #A
+Who is the father of personal computer?#A Edward Robert #B Allen Turing #C Charles Babbage #D None of these #A
+A CPU contains#A a card reader and a printing device #B an analytical engine and a control unit#C a control unit and an arithmetic #D an arithmetic logic unit and a card reader #C
+Which of the following controls the process of interaction between the user and the operating system?#A User interface #B Language translator #C Platform #D Screen saver #A
+The first computers were programmed using #A assembly language #B machine language #C source code #D object code #B
+..........is a combination of hardware and software that facilitates the sharing of informationbetween computing devices.#A network #B peripheral #C expansion board #A digital device #B
+Coded entries which are used to gain access to a computer system are called#A Entry codes #B Passwords #C Security commands #D Code words #A
+Which of the following statements is true ?#A Minicomputer works faster than Microcomputer#B Microcomputer works faster than Minicomputer#C Speed of both the computers is the same #D The speeds of both these computers cannot be compared with the speed of advanced #B
+You organize files by storing them in#A archives #B folders #C indexes #D lists #A
+What type of resource is most likely to be a shared common resource in a computer Network? #A Printers #B Speakers #C Floppy disk drives #D Keyboards #B
+Which device is required for the Internet connection?#A Joystick #B Modem #C CD Drive #D NIC Card #A
+What is a light pen?#A A Mechanical Input device #B Optical input device#C Electronic input device #D Optical output device#B
+UNIVAC is#A Universal Automatic Computer #B Universal Array Computer#C Unique Automatic Computer #D Unvalued Automatic Computer #B
+CD-ROM stands for#A Compactable Read Only Memory #B Compact Data Read Only Memory#C Compactable Disk Read Only Memory #D Compact Disk Read Only Memory #A
+ALU is#A Arithmetic Logic Unit #B Array Logic Unit#C Application Logic Unit #D None of above #A
+VGA is#A Video Graphics Array #B Visual Graphics Array#C Volatile Graphics Array #D Video Graphics Adapter #A
+IBM 1401 is#A First Generation Computer #B Second Generation Computer#C Third Generation Computer #D Fourth Generation Computer #A
+MSI stands for#A Medium Scale Integrated Circuits #B Medium System Integrated Circuits#C Medium Scale Intelligent Circuit #D Medium System Intelligent Circuit #B
+The capacity of 3.5 inch floppy disk is#A 1.40 MB #B 1.44 GB #C 1.40 GB #D 1.44 MB #A
+WAN stands for#A Wap Area Network #B Wide Area Network#C Wide Array Net #D Wireless Area Network #D
+MICR stands for#A Magnetic Ink Character Reader #B Magnetic Ink Code Reader#C Magnetic Ink Cases Reader #D None #B
+EBCDIC stands for#A Extended Binary Coded Decimal Interchange Code#B Extended Bit Code Decimal Interchange Code#C Extended Bit Case Decimal Interchange Code#D Extended Binary Case Decimal Interchange Code #A
+Which of the following is a part of the Central Processing Unit?#A Printer #B Key board#C Mouse #D Arithmetic & Logic unit #A
+CAD stands for#A Computer aided design #B Computer algorithm for design#C Computer application in design #D Computer analogue design #D
+Junk e-mail is also called#A spam #B spoof#C sniffer script #D spool #A
+Hackers#A all have the same motive#B break into other people's computers#C may legally break into computers as long as they do not do any damage#D are people who are allergic to computers #A
+What type of computers are client computers (most of the time) in a client-server system?#A Mainframe #B Mini-computer#C Microcomputer #D PDA #B
+A computer cannot 'boot' if it does not have the#A Compiler #B Loader#C Operating System #D Assembler #C
+The amount of vertical space between lines of text in a document is called#A double-space #B line spacing #C single space #D vertical spacing #C
+Example of non-numeric data is#A Employee address #B Examination score #C Bank balance #D All of these #B
+What is embedded system?#A The programme which arrives by being wrapped in box.#B The programme which is the permanent part of the computer#C The computer which is the part of a big computer#D The computer and software system that control the machine #A
+First page of Website is termed as- #A Homepage #B Index #C JAVA script #D Bookmark #D
+...................... Is the appearance of typed characters?#A Size #B Format #C Point #D Colour #A
+When a file is saved for the first time#A a copy is automatically printed#B it must be given a name to identify it#C it does not need a name#D it only needs a name if it is not going to be printed #B
+Office LANS, which are scattered geographically on large scale, can be connected by the use of corporate#A CAN #B LAN #C DAN #D WAN #B
+Where are data and programme stored when the processor uses them?#A Main memory #B Secondary memory#C Disk memory #D Programme memory #D
+................ represents raw facts, where-as................. is data made meaningful.#A Information, reporting #B Data, information#C Information, bits #D Records, bytes #A
+What characteristic of read-only memory (ROM) makes it useful?#A ROM information can be easily update#D#B Data in ROM is non-volatile, that is, it remains there even without electrical power.#C ROM provides very large amounts of inexpensive data storage.#D ROM chips are easily swapped between different brands of computers. #B
+What do you call the programs that are used to find out possible faults and their causes?#A operating system extensions #B cookies#C diagnostic software #D boot diskettes #B
+Which programming languages are classified as low level languages?#A BASIC, COBOL, Fortran #B Prolog#C C, C++ #D Assembly languages #C
+Which of the following is not anti- viruses’ software?#A NAV #B F-Prot#C Oracle #D McAfee #D
+Which device is required for the Internet connection?#A Joystick #B Modem#C CD Drive #D NIC Card #C
+What does DMA stand for?#A #A Distinct Memory Access #B Direct Memory Access#C Direct Module Access #D Direct Memory Allocation #B
+Which of the following is a storage device?#A Tape #B Hard Disk#C Floppy Disk #D All of the above #B
+When did John Napier develop logarithm?#A 1416 #B 1614#C 1641 #D 1804 #D
+A normal CD- ROM usually can store up to _________ _data?#A 680 KB #B 680 Bytes#C 680 MB #D 680 GB #B
+MIS is designed to provide information needed for effective decision making by?#A Consumers #B Workers#C Foremen #D Managers #C
+What is a light pen?#A Mechanical Input device #B Optical input device#C Electronic input device #D Optical output device #D
+BCD is#A Binary Coded Decimal #B Bit Coded Decimal#C Binary Coded Digit #D Bit Coded Digit #B
+ASCII stands for#A American Stable Code for International Interchange#B American Standard Case for Institutional Interchange#C American Standard Code for Information Interchange#D American Standard Code for Interchange Information #A
+Which of the following is first generation of computer?#A EDSAC #B IBM-1401 #C CDC-1604 #D ICL-2900 #C
+Chief component of first generation computer was#A Transistors #B Vacuum Tubes and Valves#C Integrated Circuits #D None of above #A
+FORTRAN is#A File Translation #B Format Translation#C Formula Translation #D Floppy Translation #B
+EEPROM stands for#A Electrically Erasable Programmable Read Only Memory#B Easily Erasable Programmable Read Only Memory#C Electronic Erasable Programmable Read Only Memory#D None of the above#C
+Second Generation computers were developed during#A 1949 to 1955 #B 1956 to 1965#C 1965 to 1970 #D 1970 to 1990 #C
+The computer size was very large in#A First Generation #B Second Generation#C Third Generation #D Fourth Generation #B
+Microprocessors as switching devices are for which generation computers#A First Generation #B Second Generation#C Third Generation #D Fourth Generation #A
+Which of the following devices can be sued to directly image printed text?#A OCR #B OMR#C MICR #D All of above
+The output quality of a printer is measured by#A Dot per inch #B Dot per sq. inch#C Dots printed per unit time #D All of above
+In analogue computer#A Input is first converted to digital form #B Input is never converted to digital form#C Output is displayed in digital form #D All of above
+In latest generation computers, the instructions are executed#A Parallel only #B Sequentially only#C Both sequentially and parallel #D All of above
+Who designed the first electronics computer – ENIAC?#A Van-Neumann #B Joseph M. Jacquard#C J. Presper Eckert and John W Mauchly #D All of above
+Who invented the high level language “C”?#A Dennis M. Ritchie #B Niklaus Writh#C Seymour Papert #D Donald Kunth
+Personnel who design, program, operate and maintain computer equipment refers to#A Console-operator #B Programmer#C Peopleware #D System Analyst
+When did arch rivals IBM and Apple Computers In#C decide to join hands?#A 1978 #B 1984#C 1990 #D 1991
+Human beings are referred to as Homosapinens, which device is called Sillico Sapiens?#A Monitor #B Hardware#C Robot #D Computer
+An error in software or hardware is called a bug. What is the alternative computer jargon for it?#A Leech #B Squid#C Slug #D Glitch

@@ -1,0 +1,99 @@
+The nucleus of an atom consists of #A.	electrons and neutrons #B.	electrons and #protons #C.	protons and neutrons #D.	All of the above #(C)
+The number of moles of solute present in 1 kg of a solvent is called its #A.   molality #B.  molarity #C.  normality #D.   formality #A
+Identify the wrong statement in the following? #A. Atomic radius of the elements increases as one moves down the first group of the periodic table #B. Atomic radius of the elements decreases as one moves across from left to right in the 2nd period of the #C. Amongst isoelectronic species, smaller the positive charge on the cation, smaller is the ionic radius #D Amongst isoelectronic species, greater the negative charge on the anion, larger is the ionic radius #C
+The term PVC used in the plastic industry stands for #A. Polyvinyl chloride #B. Polyvinyl carbonate #C. Phosphor vanadiu chloride #D Phosphavinyl chloride #A
+The number of moles of solute present in 1 kg of a solvent is called its #A. Molality #B. Molarity #C. Normality #D Formality #B
+The oldest rocks in the earth's crust were once molten, and came from deep inside the earth. The molten rock, called magma, spewed out in volcanic eruptions during the earth;s early life and solidified into hard rock's called #A. Granite #B. Basalt #C. Igneous rocks #D Sedimentary rocks #C
+The octane number of zero is assigned to #A. 2- methyl octane #B. N- heptane #C. Iso- octane #D 3- methyl #B
+Which is used in preparation of dynamite ? #A. Glycerol #B. Ethyl alochol #C. Methyl alcohol #D Glycol #A
+Bleaching action of chlorine is by #A Decomposition #B Gydrolysis #C Reduction #D Oxidation #A
+What is a mixture of potassium nitrate powdered charcoal and sulphur called? #A Paint #B Aluminium #C Brass #D Gun powder #D
+Nail polish remover contains ? #A Benzene #B Acetic acid #C Acetone #D Petroleum ether #C
+The isotope atoms differ in ? #A Number of protons #B Atomic number #C Number of electrons #D Atomic weight #C
+Natural rubber is polymer derived from ? #A Ethylene #B Propylene #C Isopropene #D Butadiene #C
+Which is also called Stranger Gas ? #A Xenon #B Neon #C Argon #D Nitrous oxide #A
+The chemical used as a fixer in photography is ? #A Sodium thio sulphate #B Sodium sulphate #C Borax #D Ammonium sulphate #A
+Water drops are spherical because of ? #A Viscosity #B Density #C Polarity #D Surface tension #D
+he oxide of Nitrogen used in medicine as anaesthetic is ? #A Nitrogen pentoxide #B Nitrous oxide #C Nitric oxide #D Nitrogen dioxide #A
+Which one of the following metals does not react with water to produce Hydrogen? #A Cadmium #B Lithium #C Potassium #D Sodium #A 
+The most electronegative element among the following is #A Sodium #B Bromine #C Fluorine #D Oxygen #C 
+The metal used to recover copper from a solution of copper sulphate is ? #A Na #B Ag #C Hg #D Fe #D
+The metallurgical process in which a metal is obtained in a fused state is called ? #A Roasting #B Calcinations #C Smelting #D Froth floatation #C
+Which of the following is produced during the formation of photochemical smog ? #A Nitrogen oxides #B Hydrocarbons #C Methane #D Ozone #D
+Which of the following gas is used in cigarette lighters ? #A Butane #B Propane #C Methane #D Ethane #A
+Iodine can be separated from a mixture of Iodine and Potassium Chloride by ? #A Filtration #B Sublimation #C Distillation #D Sedimentation #B
+The material which can be deformed permanently by heat and pressure is called a #A Thermoset #B Thermoplastic #C chemical compound #D Polymer #A
+The term ‘Computer’ is derived from..........#A Latin #B German #C French #D Arabic #A
+Who is the inventor of “Difference Engine”? #A Allen Turing #B Charles Babbage #C Simur Cray #D Augusta Adaming #B
+Who is the father of Computer?#A Allen Turing #B Charles Babbage #C Simur Cray #D Augusta Adaming #B
+Who is the father of Computer science?#A Allen Turing #B Charles Babbage #C Simur Cray #D Augusta Adaming #A
+Who is the father of personal computer?#A Edward Robert #B Allen Turing #C Charles Babbage #D None of these #A
+A CPU contains#A a card reader and a printing device #B an analytical engine and a control unit#C a control unit and an arithmetic #D an arithmetic logic unit and a card reader #C
+Which of the following controls the process of interaction between the user and the operating system?#A User interface #B Language translator #C Platform #D Screen saver #A
+The first computers were programmed using #A assembly language #B machine language #C source code #D object code #B
+..........is a combination of hardware and software that facilitates the sharing of informationbetween computing devices.#A network #B peripheral #C expansion board #A digital device #B
+Coded entries which are used to gain access to a computer system are called#A Entry codes #B Passwords #C Security commands #D Code words #A
+Which of the following statements is true ?#A Minicomputer works faster than Microcomputer#B Microcomputer works faster than Minicomputer#C Speed of both the computers is the same #D The speeds of both these computers cannot be compared with the speed of advanced #B
+You organize files by storing them in#A archives #B folders #C indexes #D lists #A
+What type of resource is most likely to be a shared common resource in a computer Network? #A Printers #B Speakers #C Floppy disk drives #D Keyboards #B
+Which device is required for the Internet connection?#A Joystick #B Modem #C CD Drive #D NIC Card #A
+What is a light pen?#A A Mechanical Input device #B Optical input device#C Electronic input device #D Optical output device#B
+UNIVAC is#A Universal Automatic Computer #B Universal Array Computer#C Unique Automatic Computer #D Unvalued Automatic Computer #B
+CD-ROM stands for#A Compactable Read Only Memory #B Compact Data Read Only Memory#C Compactable Disk Read Only Memory #D Compact Disk Read Only Memory #A
+ALU is#A Arithmetic Logic Unit #B Array Logic Unit#C Application Logic Unit #D None of above #A
+VGA is#A Video Graphics Array #B Visual Graphics Array#C Volatile Graphics Array #D Video Graphics Adapter #A
+IBM 1401 is#A First Generation Computer #B Second Generation Computer#C Third Generation Computer #D Fourth Generation Computer #A
+MSI stands for#A Medium Scale Integrated Circuits #B Medium System Integrated Circuits#C Medium Scale Intelligent Circuit #D Medium System Intelligent Circuit #B
+The capacity of 3.5 inch floppy disk is#A 1.40 MB #B 1.44 GB #C 1.40 GB #D 1.44 MB #A
+WAN stands for#A Wap Area Network #B Wide Area Network#C Wide Array Net #D Wireless Area Network #D
+MICR stands for#A Magnetic Ink Character Reader #B Magnetic Ink Code Reader#C Magnetic Ink Cases Reader #D None #B
+If Logx (1 / 8) = - 3 / 2, then x is equal to #A - 4 #B 4 #C 1 / 4 #D 10#B
+20 % of 2 is equal to #A 20 #B 4 #C 0.4 #D 0.04#C 
+If Log 4 (x) = 12, then log 2 (x / 4) is equal to #A 11 #B 48 #C -12 #D 22#D 
+The population of a country increased by an average of 2% per year from 2000 to 2003. If the population of this country was 2 000 000 on December 31, 2003, then the population of this country on January 1, 2000, to the nearest thousand would have been #A 1 846 000 #B 1 852 000 #C 1 000 000 #D 1 500 000#A 
+f is a quadratic function whose graph is a parabola opening upward and has a vertex on the x-axis. The graph of the new function g defined by g(x) = 2 - f(x - 5) has a range defined by the interval #A [ -5 , + infinity) #B [ 2 , + infinity) #C ( - infinity , 2] #D ( - infinity , 0]#C 
+f is a function such that f(x) < 0. The graph of the new function g defined by g(x) = | f(x) | is a reflection of the graph of f #A on the y axis #B on the x axis #C onthe line y = x #D on the line y = - x#B 
+If the graph of y = f(x) is transformed into the graph of 2y - 6 = - 4 f(x - 3), point (a , b) on the graph of y = f(x) becomes point (A , B) on the graph of 2y - 6 = - 4 f(x - 3) where A and B are given by #A A = a - 3, B = b #B A = a - 3, B = b #C A = a + 3, B = -2 b #D A = a + 3, B = -2 b +3#D
+When a parabola represented by the equation y - 2x 2 = 8 x + 5 is translated 3 units to the left and 2 units up, the new parabola has its vertex at #A (-5 , -1) #B (-5 , -5) #C (-1 , -3) #D (-2 , -3)#A
+The graphs of the two linear equations a x + b y = c and b x - a y = c, where a, b and c are all not equal to zero, #A are parallel #B intersect at one point #C intersect at two points #D perpendicular#D
+The graphs of the two equations y = a x 2 + b x + c and y = A x 2 + B x + C, such that a and A have different signs and that the quantities b 2 - 4 a c and B 2 - 4 A C are both negative, #A intersect at two points #B intersect at one point #C do not intersect #D none of the above#C 
+For x greater than or equal to zero and less than or equal to 2 (Pi), sin x and cos x are both decreasing on the intervals #A (0 , (Pi)/2) #B ((Pi)/2 , (Pi)) #C ((Pi) , 3 (Pi) / 2) #D (3 (Pi) / 2 , 2 (Pi))#B
+The three solutions of the equation f(x) = 0 are -2, 0, and 3. Therefore, the three solutions of the equation f(x - 2) = 0 are #A - 4, -2, and 1 #B -2, 0 and 3 #C 4, 2, and 5 #D 0, 2 and 5#D
+The three solutions of the equation f(x) = 0 are - 4, 8, and 11. Therefore, the three solutions of the equation f(2 x) = 0 are #A - 2, 4, and 11/2 #B - 8, 16 and 22 #C - 4, 8, and 11 #D 2, 19 / 2 and 7 / 2#A
+A school committee consists of 2 teachers and 4 students. The number of different committees that can be formed from 5 teachers and 10 students is #A 10 #B 15 #C 2100 #D 8#C
+Five different books (A, B, C, D and E) are to be arranged on a shelf. Books C and D are to be arranged first and second starting from the right of the shelf. The number of different orders in which books A, B and E may be arranged is #A 5! #B 3! #C 2! #D 3! * 2!#B
+The mean of a data set is equal to 10 and its standard deviation is equal to 1. If we add 5 to each data value, then the mean and standard deviation become #A mean = 15 , standard deviation = 6 #B mean = 10 , standard deviation = 6 #C mean = 15 , standard deviation = 1 #D mean = 10 , standard deviation = 1#C
+The exam scores of all 500 students were recorded and it was determined that these scores were normally distribute#D If Jane's score is 0.8 standard deviation above the mean, then how many, to the nearest unit, students scored above Jane? #A 394 #B 250 #C 400 #D 106#D
+If f(x) is an odd function, then | f(x) | is #A an odd function #B an even function #C neither odd nor even #D even and odd#B
+The period of | sin (3x) | is #A 2 (Pi) #B 2 (Pi) / 3 #C (Pi) / 3 #D 3 (Pi)#C
+When a metallic ball bearing is placed inside a cylindrical container, of radius 2 cm, the height of the water, inside the container, increases by 0.6 cm. The radius, to the nearest tenth of a centimeter, of the ball bearing is #A 1 cm #B 1.2 cm #C 2 cm #D 0.6 cm#B
+The period of 2 sin x cos x is #A 4 (Pi) 2#B 2 (Pi) #C 4 (Pi) #D (Pi)#D
+The probability that an electronic device produced by a company does not function properly is equal to 0.1. If 10 devices are bought, then the probability, to the nearest thousandth, that 7 devices function properly is #A 0.057 #B 0.478 #C 0.001 #D 0#A
+If sin t = 0.6 and cot t > 0, then sin (2 t) = ? #A - 0.96 #B 0.48 #C 0.96 #D - 0.48#C
+If cos t = 0.8, then cos (2 t) = ? #A 0.28 #B 0.4 #C 1.0 #D 1.6#A
+If tan x = 5, then tan (2 x) = ? #A 10 #B - 5 / 12 #C 1 / 10 #D 5 / 12#B
+A current carrying coil is subjected to a uniform magnetic field. The coil will orient so that its plane becomes ? #A inclined at 45 degrees to the magnetic field #B inclined at any arbitrary angle to thezmagnetic field #C parallel to the magnetic field #D perpendicular to magnetic field #C
+Tesla is the unit of #A magnetic flux #B magnetic field #C magnetic induction #D magnetic moment #B
+Energy in a current carrying coil is stored in the form of ? #A electric field #B magnetic field #C dielectric strength #D heat #B
+The total charge induced in a conducting loop when it is moved in magnetic field depends on? #A the rate of change of magnetic flux #B initial magnetic flux only #C the total change in magnetic flux #D final magnetic flux only. #C
+The magnetic induction at a point P which is at the distance of 4 cm from a long current carrying wire is 10-3 The field of induction at a distance 12 cm from the current will be ? #A 3.33 x 10-4 #B 1.11x 10-4 #C 3×10-3 #D 9×10-3 #A
+A charge moving with velocity v in X-direction is subjected to a field of magnetic induction in negative X-direction. As a result, the charge will #A remain unaffected #B start moving in a circulat whatr path in Y—Z plane #C retard along X-axis #D moving along a helical path around X-axis #A
+A uniform magnetic field acts right angles to the direction of motion of electrons. As a result, the electron moves in a circular path of radius 2cm. If the speed of electrons is doubled, then the radius of the circular path will be ? #A 2.0 cm #B 0.5 cm #C 4.0cm #D 1.0cm #C
+A deuteron of kinetic energy 50 keV is describing a circular orbit of radius 0.5 metre in a plane perpendicular to magnetic field B. The kinetic energy of the proton that describes a circular orbit of radius 0.5 metre in the same plane with the same B is #A 25 keV #B 50 keV #C 200 keV #D 100 keV #D
+A straight wire of length 0.5 metre and carrying a current of 1.2 ampere is placed in uniform magnetic field of induction 2 Tesla. The magnetic field is perpendicular to the length of the wire. The force on the wire is ? #A 2.4N #B 1.2N #C 3.0 N #D 2.0 N #B
+To convert a galvanometer into an ammeter, one needs to connect a ? #A low resistance in parallel #B high resistance in parallel #C low resistance in series #D high resistance in series. #A
+A coil carrying electric current is placed in uniform magnetic field #A torque is formed #B e.m.f is induced #C both  #A and  #B are correct #D none of the above #A	
+The magnetic field at a distance "r" from a long wire carrying current "i" is 0.4 Tesla. The magnetic field at a distance "2r" is ? #A 0.2Tesla #B 0.8 Tesla #C 0.1 Tesla #D 1.6 Tesla #A
+A electron enters a region where magnetic  (B) and electric (E) fields are mutually perpendicular, then ? #A it will always move in the direction of B #B it will always move in the direction of E #C it always possesses circular motion #D it can go un deflected also. #D
+A straight wire of diameter 0.5 mm carrying a current of 1 A is replaced by another wire of I mm diameter carrying same current. The strength of magnetic field far away is? #A twice the earlier value #B same as the earlier value #C one-half of the earlier value #D one-quarter of the earlier value #A
+At what distance from a long straight wire carrying a current of 12 A will the magnetic field be equal to 3×10-6 Wb/metre Square #A 8x10-2 m #B 12x10-2 m #C 18x10-2   #D 24x10-2 m #A
+An electron moves in a circular orbit with a uniform speed v. It produces a magnetic field B at the centre of the circle. The radius of the circle is proportional to ? #A v(B/v) #B B/v #C v(v/B) #D v/B #D
+A 10 eV electron is circulating in a plane at right angles to a uniform field at magnetic induction 10-4 Wb/m2 (= 1.0 gauss). The orbital radius of the electron is ? #A 12cm #B 16cm #C 11cm #D 18cm #C
+A galvanometer acting as a voltmeter will have? #A a low resistance in series with its coil. #B a high resistance in parallel with its coil #C a high resistance in series with its coil #D a low resistance in parallel with its coil #C
+A beam of electrons is moving with constant velocity in a region having simultaneous perpendicular electric and magnetic fields of strength 20 Vm-1 and 0.5 respectively at right angles to the direction of motion of the electrons. Then the velocity of electrons must be? #A 8m/s #B 20 m/s #C 40m/s #D 1/40 m/s #C
+A galvanometer of resistance 20 Ohms gives full scale deflection with a current of 0.004 A. To convert it into an ammeter of range 1 A, the required shunt resistance should be? #A 0.38 Ohms #B 0.21 Ohms #C 0.08 Ohms #D 0.05 Ohms #C
+A long solenoid carrying a current produces a magnetic field B along its axis. If the current is doubled and the number of turns per cm is halved, the new value of the magnetic field is ? #A 4B #B B/2 #C B #D 2B #C
+A positively charged particle moving due east enters a region of uniform magnetic field directed vertically upwards. The particle will #A continue to move due east #B move in a circular orbit with its speed unchanged #C move in a circular orbit with its speed increased #D gets deflected vertically upwards. #C
+Two long parallel wires are at a distance of 1 metre. Both of them carry one ampere of current The force of attraction per unit length between the two wires is? #A 2x10-7 N/m #B 2 x10-8 N/m #C 5×10-8 N/m #D 10-7 N/m  #A
+A galvanometer having a resistance of 8 ohms is shunted by a wire of resistance 2 ohms. If the total current is 1 amp, the part of it passing through the shunt will be? #A 0.25 amp #B 0.8 amp #C 0.2 amp #D 0.5 amp #B
+A coil of one turn is made of a wire of certain length and then from the same length a coil of two turns is made. If the same current is passed in both the cases, then the ratio of the magnetic inductions at their centres will be? #A 2:1 #B 1:4 #C 4:1 #D 1:2 #B

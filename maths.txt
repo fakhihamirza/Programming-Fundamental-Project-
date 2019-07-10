@@ -1,0 +1,60 @@
+If Logx (1 / 8) = - 3 / 2, then x is equal to #A - 4 #B 4 #C 1 / 4 #D 10#B
+20 % of 2 is equal to #A 20 #B 4 #C 0.4 #D 0.04#C 
+If Log 4 (x) = 12, then log 2 (x / 4) is equal to #A 11 #B 48 #C -12 #D 22#D 
+The population of a country increased by an average of 2% per year from 2000 to 2003. If the population of this country was 2 000 000 on December 31, 2003, then the population of this country on January 1, 2000, to the nearest thousand would have been #A 1 846 000 #B 1 852 000 #C 1 000 000 #D 1 500 000#A 
+f is a quadratic function whose graph is a parabola opening upward and has a vertex on the x-axis. The graph of the new function g defined by g(x) = 2 - f(x - 5) has a range defined by the interval #A [ -5 , + infinity) #B [ 2 , + infinity) #C ( - infinity , 2] #D ( - infinity , 0]#C 
+f is a function such that f(x) < 0. The graph of the new function g defined by g(x) = | f(x) | is a reflection of the graph of f #A on the y axis #B on the x axis #C onthe line y = x #D on the line y = - x#B 
+If the graph of y = f(x) is transformed into the graph of 2y - 6 = - 4 f(x - 3), point (a , b) on the graph of y = f(x) becomes point (A , B) on the graph of 2y - 6 = - 4 f(x - 3) where A and B are given by #A A = a - 3, B = b #B A = a - 3, B = b #C A = a + 3, B = -2 b #D A = a + 3, B = -2 b +3#D
+When a parabola represented by the equation y - 2x 2 = 8 x + 5 is translated 3 units to the left and 2 units up, the new parabola has its vertex at #A (-5 , -1) #B (-5 , -5) #C (-1 , -3) #D (-2 , -3)#A
+The graphs of the two linear equations a x + b y = c and b x - a y = c, where a, b and c are all not equal to zero, #A are parallel #B intersect at one point #C intersect at two points #D perpendicular#D
+The graphs of the two equations y = a x 2 + b x + c and y = A x 2 + B x + C, such that a and A have different signs and that the quantities b 2 - 4 a c and B 2 - 4 A C are both negative, #A intersect at two points #B intersect at one point #C do not intersect #D none of the above#C 
+For x greater than or equal to zero and less than or equal to 2 (Pi), sin x and cos x are both decreasing on the intervals #A (0 , (Pi)/2) #B ((Pi)/2 , (Pi)) #C ((Pi) , 3 (Pi) / 2) #D (3 (Pi) / 2 , 2 (Pi))#B
+The three solutions of the equation f(x) = 0 are -2, 0, and 3. Therefore, the three solutions of the equation f(x - 2) = 0 are #A - 4, -2, and 1 #B -2, 0 and 3 #C 4, 2, and 5 #D 0, 2 and 5#D
+The three solutions of the equation f(x) = 0 are - 4, 8, and 11. Therefore, the three solutions of the equation f(2 x) = 0 are #A - 2, 4, and 11/2 #B - 8, 16 and 22 #C - 4, 8, and 11 #D 2, 19 / 2 and 7 / 2#A
+A school committee consists of 2 teachers and 4 students. The number of different committees that can be formed from 5 teachers and 10 students is #A 10 #B 15 #C 2100 #D 8#C
+Five different books (A, B, C, D and E) are to be arranged on a shelf. Books C and D are to be arranged first and second starting from the right of the shelf. The number of different orders in which books A, B and E may be arranged is #A 5! #B 3! #C 2! #D 3! * 2!#B
+The mean of a data set is equal to 10 and its standard deviation is equal to 1. If we add 5 to each data value, then the mean and standard deviation become #A mean = 15 , standard deviation = 6 #B mean = 10 , standard deviation = 6 #C mean = 15 , standard deviation = 1 #D mean = 10 , standard deviation = 1#C
+The exam scores of all 500 students were recorded and it was determined that these scores were normally distribute#D If Jane's score is 0.8 standard deviation above the mean, then how many, to the nearest unit, students scored above Jane? #A 394 #B 250 #C 400 #D 106#D
+If f(x) is an odd function, then | f(x) | is #A an odd function #B an even function #C neither odd nor even #D even and odd#B
+The period of | sin (3x) | is #A 2 (Pi) #B 2 (Pi) / 3 #C (Pi) / 3 #D 3 (Pi)#C
+When a metallic ball bearing is placed inside a cylindrical container, of radius 2 cm, the height of the water, inside the container, increases by 0.6 cm. The radius, to the nearest tenth of a centimeter, of the ball bearing is #A 1 cm #B 1.2 cm #C 2 cm #D 0.6 cm#B
+The period of 2 sin x cos x is #A 4 (Pi) 2#B 2 (Pi) #C 4 (Pi) #D (Pi)#D
+The probability that an electronic device produced by a company does not function properly is equal to 0.1. If 10 devices are bought, then the probability, to the nearest thousandth, that 7 devices function properly is #A 0.057 #B 0.478 #C 0.001 #D 0#A
+If sin t = 0.6 and cot t > 0, then sin (2 t) = ? #A - 0.96 #B 0.48 #C 0.96 #D - 0.48#C
+If cos t = 0.8, then cos (2 t) = ? #A 0.28 #B 0.4 #C 1.0 #D 1.6#A
+If tan x = 5, then tan (2 x) = ? #A 10 #B - 5 / 12 #C 1 / 10 #D 5 / 12#B
+If sin t = 1/5 and 0 < t < (Pi) / 2, then cos (4 t) = ? #A 0.3464 #B 0.8 #C 0.6928 #D - 0.6928#C
+If y = cos x, then what is the maximum value of y? #A 1 #B -1 #C (Pi) #D 2(Pi) #A
+What is the period of the trigonometric function given by f(x) = 2 sin(5 x)? #A (Pi) / 5 #B 2 (Pi) / 5 #C 5 (Pi) #D (Pi)#B
+What is the amplitude of the function f(x) = -3cos((Pi)x)? #A 3 #B -3 #C (Pi) #D 2#A
+Which of the following functions has the greatest period? #A f(x) = 20 sin(2x-(Pi)/2) #B f(x) = - sin((Pi)x) #C f(x) = 2 sin(0.1 x) #D f(x) = - sin(0.1 (Pi) x)#C
+What is the range of the function f(x) = - 4 cos(2x - 3)? #A (0 , 4) #B [0 , 4] #C (-4 , 4) #D [-4 , 4]#D
+What is the phase shift of the function f(x) = 7sin(2x - (Pi) / 3)? #A (Pi) / 3 #B (Pi) / 6 #C - (Pi) / 6 #D - (Pi) / 3#B
+What is the range of the function f(x) = - 6 cos((Pi) x - (Pi)/2) + 2? #A [-6 , 6] #B [-4 , 8] #C [0 , 8] #D [-6 , 0]#B
+What is the amplitude of f(x) = 4 sin(x) cos(x)? #A 4 #B 3 #C 2 #D 1#C
+What is the period of f(x) = 0.5 sin(x) cos(x)? #A 0.5 #B 2 (Pi) #C (Pi) / 2 #D (Pi)#D
+What is the amplitude of f(x) = sin(x) + cos(x)? #A radical(2 #B radical(2 / 2 #C 2 radical(2 #D 2#A
+An angle in standard position whose measure is -30 Degrees has a its terminal side in #A Quadrant I #B Quadrant II #C Quadrant III #D Quadrant IV#D
+In which quadrant is the terminal of an angle in standard position whose measure is 2(Pi)/3? #A Quadrant I #B Quadrant II #C Quadrant III #D Quadrant IV#B
+An angle in standard position whose measure is 1330 Degrees has a its terminal side in #A Quadrant I #B Quadrant II #C Quadrant III #D Quadrant IV#C
+In which quadrant is the terminal of an angle in standard position whose measure is -7(Pi)/4? #A Quadrant I #B Quadrant II #C Quadrant III #D Quadrant IV#A
+An angle in standard position whose measure is -1550 Degrees has a its terminal side in #A Quadrant I #B Quadrant II #C Quadrant III #D Quadrant IV#C
+In which quadrant is the terminal of an angle in standard position whose measure is -55(Pi)/3? #A Quadrant I #B Quadrant II #C Quadrant III #D Quadrant IV#D
+Which two angles are supplementary? #A 30 Degrees and 60 Degrees #B 41 Degrees and 139 Degrees #C 45 Degrees and 145 Degrees #D 23 Degrees and 147 Degrees#B
+What is the complementary angle to angle B = (Pi)/3? #A (Pi)/2 #B (Pi)/3 #C (Pi)/4 #D (Pi)/6#D
+Which two angles are complementary? #A 30 Degrees and 130 Degrees #B 20 Degrees and 160 Degrees #C 45 Degrees and 145 Degrees #D 1 Degrees and 89 Degrees#D
+Which of the following angles is supplementary to angle C = 2(Pi)/3? #A 4(Pi)/3 #B 2(Pi)/3 #C (Pi)/3 #D 3(Pi)/4#C
+Which pairs of angles are complementary? #A 3(Pi)/4 and (Pi)/4 #B 5(Pi)/12 and (Pi)/12 #C (Pi)/4 and (Pi)/3 #D (Pi)/16 and (Pi)/8#B
+Which two angles are supplementary? #A (Pi) and (Pi)/2 #B (Pi)/3 and 3(Pi)/2 #C (Pi)/7 and 6 (Pi)/7 #D (Pi)/8 and (Pi)/2#C
+If 0 < t < 2(Pi) such that sin t = radical(2 / 2 and cot t < 0, then t = ? #A (Pi) / 4 #B 5 (Pi) / 4 #C 7 (Pi) / 4 #D 3 (Pi) / 4#D
+If 0 < t < 2(Pi) and sin t = - 1, then t = #A (Pi) / 2 #B 3 (Pi) / 2 #C 5 (Pi) / 4 #D (Pi)#B
+If - 2(Pi) < t < 0 and sin t = - 1 / 2, then t = #A -5 (Pi) / 6 #B -7 (Pi) / 6 #C - 5 (Pi) / 4 #D - 5 (Pi) / 3#A
+If 0 < a < (Pi) and cos a = -radical(3 / 2, then a = #A (Pi) / 6 #B - (Pi) / 6 #C 7 (Pi) / 6 #D 5 (Pi) / 6#D
+Find all values of t such that sin(t) = 0. #A t = k(Pi)/2 ; k = 0, ~+mn~ 1, ~+mn~ 2, ~+mn~ 3,... #B t = k(Pi)/4 ; k = 0, ~+mn~ 1, ~+mn~ 2, ~+mn~ 3,... #C t = k(Pi) ; k = 0, ~+mn~ 1, ~+mn~ 2, ~+mn~ 3,... #D t = 2 k(Pi) ; k = 0, ~+mn~ 1, ~+mn~ 2, ~+mn~ 3,...#C
+Find all values of t such that cos((Pi) t) = 1. #A t = 2 k (Pi) ; k = 0, ~+mn~ 1, ~+mn~ 2, ~+mn~ 3,... #B t = 2 k ; k = 0, ~+mn~ 1, ~+mn~ 2, ~+mn~ 3,... #C t = k ; k = 0, ~+mn~ 1, ~+mn~ 2, ~+mn~ 3,... #D t = k (Pi) ; k = 0, ~+mn~ 1, ~+mn~ 2, ~+mn~ 3,...#B
+Find all angles ? such that -2(Pi) < ? < 2(Pi) and cos ? = radical(2 / 2 #A {-7 (Pi) / 4, - (Pi) / 4 , (Pi) / 4 , 7 (Pi) / 4} #B {- (Pi) / 4, - 3 (Pi) / 4 , (Pi) / 4 , 3 (Pi) / 4} #C {-5 (Pi) / 4, (Pi) / 4 , 3 (Pi) / 4} #D {(Pi) / 4 , (Pi) / 4 , 3 (Pi) / 4}#A
+What is the measure in degrees of the angle A = 7(Pi)/6? #A 150 Degrees #B 210 Degrees #C 100 Degrees #D 120 Degrees#B
+What is the measure in radians of the angle A = 330 Degrees? #A 11(Pi)/3 #B 7(Pi)/4 #C 7(Pi)/6 #D 11(Pi)/6#D
+What is the measure in degrees of the angle A = 21(Pi)/5? #A 756 Degrees #B 710 Degrees #C 36 Degrees #D 420 Degrees#A
+What is the measure in radians of the angle A = -750 Degrees? #A -25(Pi)/6 #B 25(Pi)/6 #C -15(Pi)/6 #D -35(Pi)/6#B
+What is the degree measure of the angle A = -15(Pi)/2? #A 135 Degrees #B 1350 Degrees #C -90 Degrees #D -1350 Degrees#D
